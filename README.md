@@ -36,5 +36,5 @@ toastMsg({
 
 ---
 
-Example here: [https://tobiasroeder.github.io/toastmsg](https://tobiasroeder.github.io/toastmsg)  
+Example here: [https://tobiasroeder.github.io/toastmsg](https://tobiasroeder.github.io/toastmsg#example)  
 [Try it yourself](https://codepen.io/tobiasroeder/pen/PgereR)

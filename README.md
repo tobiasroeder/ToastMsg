@@ -7,6 +7,8 @@ Inspired by Google Toast Message.
 <script src="https://tobiasroeder.github.io/toastmsg/{version}/toastmsg.min.js"></script>
 ```
 
+---
+
 ### Syntax (Example)
 ``` javascript
 toastMsg({
@@ -34,5 +36,5 @@ toastMsg({
 
 ---
 
-Example here: [https://tobiasroeder.github.io/toastmsg](https://tobiasroeder.github.io/toastmsg)
+Example here: [https://tobiasroeder.github.io/toastmsg](https://tobiasroeder.github.io/toastmsg)  
 [Try it yourself](https://codepen.io/tobiasroeder/full/wZeBNL)

@@ -4,7 +4,7 @@ Inspired by Google Toast Message.
 
 ### Include this file
 ``` html
-<script src="https://tobiasroeder.github.io/toastmsg/{version}/toastmsg.min.js"></script>
+<script src="https://unpkg.com/toastmsg-js@1.0.0/toastmsg.min.js"></script>
 ```
 
 ---

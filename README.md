@@ -4,7 +4,7 @@ Inspired by Google Toast Message.
 
 ### Include this file
 ``` html
-<script src="https://unpkg.com/toastmsg-js@1.0.0/toastmsg.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/tobiasroeder/toastmsg@1.0.0/js/toastmsg.min.js"></script>
 ```
 
 ---
@@ -24,17 +24,17 @@ toastMsg({
 
 ---
 
-### Default settings
-| type | value |
-|--|--|
-| color | #fff |
-| bgColor | #242424 |
-| fontSize | 16px |
-| fontFamily | 'Helvetica Neue', 'Helvetica', sans-serif |
-| position | left |
-| duration | 3000 |## Heading
+### Parameter
+Parameter | Type | Default
+--|--|--
+color | string | #fff
+bgColor | string | #242424
+fontSize | string | 16px
+fontFamily | string | 'Helvetica Neue', 'Helvetica', sans-serif
+position | string | left
+duration | number | 3000
 
 ---
 
-Example here: [https://tobiasroeder.github.io/toastmsg](https://tobiasroeder.github.io/toastmsg#example)  
-[Try it yourself](https://codepen.io/tobiasroeder/pen/PgereR)
+Example here: [https://tobiasroeder.github.io/toastmsg](https://tobiasroeder.github.io/toastmsg)  
+[Try it yourself](https://codepen.io/tobiasroeder/full/wZeBNL)

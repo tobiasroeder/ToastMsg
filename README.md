@@ -37,4 +37,4 @@ duration | number | 3000
 ---
 
 Example here: [https://tobiasroeder.github.io/toastmsg](https://tobiasroeder.github.io/toastmsg)  
-[Try it yourself](https://codepen.io/tobiasroeder/full/wZeBNL)
+[Try it yourself](https://codepen.io/tobiasroeder/pen/PgereR)
